@@ -8,6 +8,9 @@
 
 This project performs a comprehensive **Data Analytics and AI** study on an e-commerce customer dataset containing **25,001 records** across 10 features. The goal is to uncover actionable business insights about customer demographics, geographic distribution, and customer segmentation using Python-based data analysis and machine learning techniques.
 
+# Dataset link
+[ https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics ]
+
 ---
 
 ## 📁 Project Structure
